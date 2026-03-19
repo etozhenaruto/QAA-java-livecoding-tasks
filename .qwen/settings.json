@@ -1,0 +1,6 @@
+{
+  "model": "qwen-plus",
+  "theme": "dark",
+  "language": "ru",
+  "approvalMode": "yolo"
+}
